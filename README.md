@@ -1,2 +1,2 @@
 # python
-# It is a Python Testing Repo
+It is a Python Testing Repo
